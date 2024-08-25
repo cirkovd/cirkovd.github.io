@@ -11,4 +11,5 @@ redirect_from:
 
 Below is a short CV. Please contact me for a more detailed version.
 
-<embed src="/files/CirkovicCV.pdf" type="application/pdf">
+<object type="application/pdf" data="/files/CirkovicCV.pdf" width="100%" height="100%">
+</object>
